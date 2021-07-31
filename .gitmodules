@@ -1,0 +1,87 @@
+[submodule "exe/luajit-rocks"]
+	path = exe/luajit-rocks
+	url = https://mirror.ghproxy.com/https://github.com/torch/luajit-rocks.git
+[submodule "exe/qtlua"]
+	path = exe/qtlua
+	url = https://mirror.ghproxy.com/https://github.com/torch/qtlua.git
+[submodule "pkg/dok"]
+	path = pkg/dok
+	url = https://mirror.ghproxy.com/https://github.com/torch/dok.git
+[submodule "pkg/gnuplot"]
+	path = pkg/gnuplot
+	url = https://mirror.ghproxy.com/https://github.com/torch/gnuplot.git
+[submodule "pkg/paths"]
+	path = pkg/paths
+	url = https://mirror.ghproxy.com/https://github.com/torch/paths.git
+[submodule "pkg/cwrap"]
+	path = pkg/cwrap
+	url = https://mirror.ghproxy.com/https://github.com/torch/cwrap.git
+[submodule "extra/cunn"]
+	path = extra/cunn
+	url = https://mirror.ghproxy.com/https://github.com/torch/cunn.git
+[submodule "extra/cutorch"]
+	path = extra/cutorch
+	url = https://mirror.ghproxy.com/https://github.com/torch/cutorch.git
+[submodule "pkg/torch"]
+	path = pkg/torch
+	url = https://mirror.ghproxy.com/https://github.com/torch/torch7.git
+[submodule "pkg/sundown"]
+	path = pkg/sundown
+	url = https://mirror.ghproxy.com/https://github.com/torch/sundown-ffi.git
+[submodule "pkg/qttorch"]
+	path = pkg/qttorch
+	url = https://mirror.ghproxy.com/https://github.com/torch/qttorch.git
+[submodule "pkg/xlua"]
+	path = pkg/xlua
+	url = https://mirror.ghproxy.com/https://github.com/torch/xlua.git
+[submodule "pkg/sys"]
+	path = pkg/sys
+	url = https://mirror.ghproxy.com/https://github.com/torch/sys.git
+[submodule "pkg/image"]
+	path = pkg/image
+	url = https://mirror.ghproxy.com/https://github.com/torch/image.git
+[submodule "pkg/optim"]
+	path = pkg/optim
+	url = https://mirror.ghproxy.com/https://github.com/torch/optim.git
+[submodule "extra/threads"]
+	path = extra/threads
+	url = https://mirror.ghproxy.com/https://github.com/torch/threads-ffi.git
+[submodule "extra/argcheck"]
+	path = extra/argcheck
+	url = https://mirror.ghproxy.com/https://github.com/torch/argcheck.git
+[submodule "extra/cudnn"]
+	path = extra/cudnn
+	url = https://mirror.ghproxy.com/https://github.com/soumith/cudnn.torch.git
+[submodule "exe/trepl"]
+	path = exe/trepl
+	url = https://mirror.ghproxy.com/https://github.com/torch/trepl.git
+[submodule "extra/nnx"]
+	path = extra/nnx
+	url = https://mirror.ghproxy.com/https://github.com/clementfarabet/lua---nnx.git
+[submodule "extra/nn"]
+	path = extra/nn
+	url = https://mirror.ghproxy.com/https://github.com/torch/nn.git
+[submodule "exe/env"]
+	path = exe/env
+	url = https://mirror.ghproxy.com/https://github.com/torch/env.git
+[submodule "extra/graph"]
+	path = extra/graph
+	url = https://mirror.ghproxy.com/https://github.com/torch/graph
+[submodule "extra/nngraph"]
+	path = extra/nngraph
+	url = https://mirror.ghproxy.com/https://github.com/torch/nngraph
+[submodule "extra/luaffifb"]
+	path = extra/luaffifb
+	url = https://mirror.ghproxy.com/https://github.com/facebook/luaffifb
+[submodule "extra/luafilesystem"]
+	path = extra/luafilesystem
+	url = https://mirror.ghproxy.com/https://github.com/keplerproject/luafilesystem.git
+[submodule "extra/penlight"]
+	path = extra/penlight
+	url = https://mirror.ghproxy.com/https://github.com/stevedonovan/Penlight.git
+[submodule "extra/lua-cjson"]
+	path = extra/lua-cjson
+	url = https://mirror.ghproxy.com/https://github.com/mpx/lua-cjson
+[submodule "extra/moses"]
+	path = extra/moses
+	url = https://mirror.ghproxy.com/https://github.com/Yonaba/Moses.git
